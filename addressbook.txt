@@ -1,0 +1,6 @@
+Name: Hari Haran
+no: 12
+Street: church street
+city: Mdu
+state: TN
+pin: 625001
